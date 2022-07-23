@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Kibuule Rogers a computer scientist/software developer/ Marketing officer from kampala , Uganda
-- 💻️ I have 2 years experience in software development such Android. I have used major features and libraries in Android for instance fragments and more...
+- 💻️ I have gained a measurable experience in front end development. I have used Javascript, Html, CSS and React ...
 - 🤔️ I have managed to gain 3 years experience in marketing for fresh startups such Yo-Waste. Where i handled the digital marketing and the Traditional marketing.
-- 🌱 I’m currently polishing my development in Ios development.
+- 🌱 I’m currently polishing my development in front end development.
 - 👀I am passionate about solving problems with technology and constantly look forward to self-improvement in terms of learning and working with people.
-- 📝️ I do some web development as well such  like https://valuechainlinks.com/,
 Learn more about me
 
 Email: Kibuulerogers58@gmail.com
